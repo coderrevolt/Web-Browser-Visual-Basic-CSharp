@@ -1,0 +1,18 @@
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\bin\Debug\Coder Revolt - Web Browser Open Source.exe.config
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\bin\Debug\Coder Revolt - Web Browser Open Source.exe
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\bin\Debug\Coder Revolt - Web Browser Open Source.pdb
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\bin\Debug\Coder Revolt - Web Browser Open Source.xml
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder Revolt - Web Browser Open Source.vbprojResolveAssemblyReference.cache
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder_Revolt___Web_Browser_Open_Source.Form1.resources
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder_Revolt___Web_Browser_Open_Source.Resources.resources
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder Revolt - Web Browser Open Source.vbproj.GenerateResource.Cache
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder Revolt - Web Browser Open Source.exe
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder Revolt - Web Browser Open Source.xml
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder Revolt - Web Browser Open Source.pdb
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder_Revolt___Web_Browser_Open_Source.AddBookmark.resources
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder_Revolt___Web_Browser_Open_Source.Bookmarks.resources
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder_Revolt___Web_Browser_Open_Source.exit_page.resources
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder_Revolt___Web_Browser_Open_Source.Find_Highlight_Tool.resources
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder_Revolt___Web_Browser_Open_Source.Main.resources
+c:\users\aeir\documents\visual studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder_Revolt___Web_Browser_Open_Source.PageSource.resources
+C:\Users\Aeir\Documents\Visual Studio 2015\Projects\Coder Revolt - Web Browser Open Source\Coder Revolt - Web Browser Open Source\obj\Debug\Coder_Revolt___Web_Browser_Open_Source.Hist.resources
