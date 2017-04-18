@@ -38,7 +38,7 @@ V.1 - BETA
 ### Coder Revolt | Steve Aura
 
 V.1: 
-www.steveaura.com/2016/06/web-browser-open-source-visual-basic.html
+
 
 
 License
