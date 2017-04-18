@@ -35,11 +35,6 @@ V.1 - BETA
 
 
 
-
-* [C:\CoderRevolt\WebBrowser\V1] - This folder is where you shall find saved items on Bookmarks and History. Depending on the version of the software, it will be saved on [/V1] and or [V2] etc. 
-
-
-
 ### Coder Revolt | Steve Aura
 
 V.1: 
